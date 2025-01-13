@@ -10,7 +10,7 @@ export default [
     title: 'Personal Portfolio',
     imgUrl: '/assets/portfolio.PNG',
     stack: ['React', 'Tailwind', 'Vite'],
-    link: 'https://silverwareband.com',
+    link: 'https://portfolio-website-git-master-bucketbrigades-projects.vercel.app/',
     color: "#32a0a8"
   }, 
   {

@@ -2,7 +2,7 @@ import React from "react";
 
 function PortfolioItem({title, imgUrl, stack, link, color}) {
   return (
-    <div className={`drop-shadow-xl rounded-md overflow-hidden`} style={{ backgroundColor: color }}>
+    <div className={`drop-shadow-xl shadow-cyan-50 rounded-md overflow-hidden`} style={{ backgroundColor: color }}>
       <a href={link} target="_blank">
         <img 
           src={imgUrl} 
